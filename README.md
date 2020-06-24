@@ -4,7 +4,7 @@
 
 # project 
 google_books_react_search is an app where you can look up for books and save them or delete if you want.
-you have asearch button displayed where you can enter the title of the book that you want after it displays  it it will give you a link to that seach.
+you have a search button displayed where you can enter the title of the book that you want after it displays  it it will give you a link to that search.
 
 # Getting Started
 WARNING: If you are not familiar with the bash/terminal this app may not be suitible for you but feel free to try anyways.
