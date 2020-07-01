@@ -1,1 +1,18 @@
-{"version":3,"sources":["c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Jumbotron/c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Jumbotron/style.css","main.20339a97.chunk.css","c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Nav/c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Nav/style.css","c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Thumbnail/c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Thumbnail/style.css"],"names":[],"mappings":"AAAA,WACE,gBAAA,CACA,iBCCF,CCHA,WACE,eDMF,CEPA,cACE,qBAAA,CACA,2BAAA,CACA,uBAAA,CACA,UAAA,CACA,gBFUF","file":"main.20339a97.chunk.css","sourcesContent":[".jumbotron {\r\n  min-height: 300px;\r\n  padding-top: 100px;\r\n}\r\n",".jumbotron {\r\n  min-height: 300px;\r\n  padding-top: 100px;\r\n}\r\n\nnav.navbar {\r\n  margin-bottom: 0;\r\n}\r\n\ndiv.thumbnail {\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: center;\r\n  width: 100%;\r\n  padding-top: 100%;\r\n}\r\n\n","nav.navbar {\r\n  margin-bottom: 0;\r\n}\r\n","div.thumbnail {\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: center;\r\n  width: 100%;\r\n  padding-top: 100%;\r\n}\r\n"]}
+{
+    "version": 3,
+    "sources": [
+        "c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Jumbotron/c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Jumbotron/style.css",
+        "main.20339a97.chunk.css",
+        "c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Nav/c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Nav/style.css",
+        "c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Thumbnail/c:/Users/idiat/Documents/broken code/coding/Google_Books_React_Search/client/src/components/Thumbnail/style.css"
+    ],
+    "names": [],
+    "mappings": "AAAA,WACE,gBAAA,CACA,iBCCF,CCHA,WACE,eDMF,CEPA,cACE,qBAAA,CACA,2BAAA,CACA,uBAAA,CACA,UAAA,CACA,gBFUF",
+    "file": "main.20339a97.chunk.css",
+    "sourcesContent": [
+        ".jumbotron {\r\n  min-height: 300px;\r\n  padding-top: 100px;\r\n}\r\n",
+        ".jumbotron {\r\n  min-height: 300px;\r\n  padding-top: 100px;\r\n}\r\n\nnav.navbar {\r\n  margin-bottom: 0;\r\n}\r\n\ndiv.thumbnail {\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: center;\r\n  width: 100%;\r\n  padding-top: 100%;\r\n}\r\n\n",
+        "nav.navbar {\r\n  margin-bottom: 0;\r\n}\r\n",
+        "div.thumbnail {\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: center;\r\n  width: 100%;\r\n  padding-top: 100%;\r\n}\r\n"
+    ]
+}
